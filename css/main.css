@@ -281,6 +281,10 @@ h1 {
     font-size: 48pt;
 }
 
+p {
+    text-align: center;
+    }
+
 iframe {
     margin: 0 auto;
     display: block;
